@@ -1,0 +1,13 @@
+package com.javaintro;
+
+public class Count {
+
+	public static void main(String[] args) {
+		count c = new count();
+		int count=0;
+		count = count++;
+		System.out.println("count of objects:"+count.count);
+
+	}
+
+}

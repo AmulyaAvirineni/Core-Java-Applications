@@ -1,0 +1,17 @@
+package com.javaintro;
+
+public class Demo {
+
+	//public static void main(String[] args) {
+		Demo d = new Demo();
+		int count=0;
+		count ++;
+		public static void main(String[] args) {
+		System.out.println("object count: " + count);
+		}
+		
+		
+
+	}
+
+}
